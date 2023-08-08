@@ -1,8 +1,6 @@
 # Front-End Developer | UI/UX Enthusiast
 
-## Hey there! 👋
-
-Welcome to my GitHub profile! I'm [Hammad], a passionate front-end developer with a flair for creating visually stunning and user-friendly web experiences. I have a keen eye for design and enjoy crafting seamless user interactions that elevate digital experiences to the next level.
+Welcome to my GitHub profile! I'm Hammad, a passionate front-end developer with a flair for creating visually stunning and user-friendly web experiences. I have a keen eye for design and enjoy crafting seamless user interactions that elevate digital experiences to the next level.
 
 ## 🔧 Technologies & Tools
 
